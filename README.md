@@ -27,14 +27,14 @@ JavaScript — Interactividad en el frontend.
 Bootstrap (opcional según implementación) — Diseño responsivo.
 
 ✨ Lo que Aprendí en este Proyecto
-Cómo estructurar un proyecto PHP orientado a un e-commerce.
+Estructuración de un e-commerce desde cero en PHP.
 
-Manejo de sesiones para el seguimiento de carritos y usuarios.
+Manejo de rutas y plantillas para diferentes secciones de la tienda.
 
-Conexión a bases de datos y consultas SQL básicas y avanzadas.
+Integración inicial de carritos de compra y manejo de sesiones.
 
-Separación de lógica y presentación para un código más ordenado.
+Conexión con bases de datos para gestión de productos y usuarios.
 
-Conceptos básicos de seguridad en PHP, como sanitización de entradas.
+Aplicación de HTML y CSS para el diseño de interfaz.
 
-Importancia de planificar la arquitectura antes de codificar.
+Organización de código y separación de lógica y presentación.
